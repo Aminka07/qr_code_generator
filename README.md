@@ -1,17 +1,14 @@
 # qr_generator_app
 
-A new Flutter project.
+A mobile application built with Flutter and qr_flutter package.
 
-## Getting Started
+## features:
 
-This project is a starting point for a Flutter application.
+- input validation
+- live preview
+- size and color changing
+- light and dark mode
 
-A few resources to get you started if this is your first Flutter project:
+## design/appearence:
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="183" height="392" alt="image" src="https://github.com/user-attachments/assets/5507d6bd-781b-471d-b818-d404a008f18e" />
